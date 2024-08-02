@@ -3,6 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Jeongyong-Park&color=blue) from 2 aug 2024
 
-<img src="/github-metrics.svg" alt="Metrics" width="70%">
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
     
 <!--![](./profile-3d-contrib/profile-night-view.svg)  -->
