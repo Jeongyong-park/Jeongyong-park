@@ -19,7 +19,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Jeongyong-park
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes
